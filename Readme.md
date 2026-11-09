@@ -10,5 +10,5 @@ All 8 problems are solved in `solutions.ts`.
 
 ## Blog Posts
 
-1. [Type Alias vs Interface in TypeScript](./typeVsAliases_1.md)
-2. [any, unknown and never in TypeScript](./anyUnknownNeverType_2.md)
+1. [Type Alias vs Interface in TypeScript](./type-vs-interface.md)
+2. [any, unknown and never in TypeScript](./any-unknown-never.md)
